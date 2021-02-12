@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coowner&label=Profile%20views&color=0e75b6&style=flat" alt="coowner" /> </p>
 
-- 🔭 I’m currently working on **Hyzeria Network** & *Vexus Network*
+- 🔭 I’m currently working on **Hyzeria Network** & <s>*Vexus Network*</s>
 
 - 👨‍💻 All of my projects are available at [GitHub.com/coowner](GitHub.com/coowner)
 
