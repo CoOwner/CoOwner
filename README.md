@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm CoOwner // Dreamzy // Howdyfam</h1>
+<h1 align="center">Hi 👋, I'm CoOwner</h1>
 <h3 align="center">A skid developer from the United States</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coowner&label=Profile%20views&color=0e75b6&style=flat" alt="coowner" /> </p>
